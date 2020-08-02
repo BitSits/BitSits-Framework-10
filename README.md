@@ -1,10 +1,9 @@
-Bitsits Framework
+Bitsits Framework WP7
 ===
 
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
-
 
 Credits
 ---
@@ -14,11 +13,9 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 [.NET Framework 4.0]: http://www.microsoft.com/en-in/download/details.aspx?id=17718
 [XNA Framework Redistributable 4.0]: http://www.microsoft.com/en-in/download/details.aspx?id=20914
