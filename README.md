@@ -9,7 +9,9 @@ If you have problems getting the game to run. You should install [.NET Framework
 Credits
 ---
 - Game Design, Code and Graphics: [Shubhajit Saha].
+
 - Physics: [Erin Catto’s Box2D physics engine](http://www.box2d.org/) under the [MIT License].
+
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
 
